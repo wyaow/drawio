@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T06:57:47.916Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="GndtLYkC7y_mAKn7yix_" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T06:58:58.727Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="HIzJEUnJ194UTogGwOpI" version="21.8.2" type="github">
   <diagram name="第 1 页" id="J8BS59FEp2aJMesZVCdo">
     <mxGraphModel dx="1194" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,12 +47,12 @@
           <mxGeometry x="354" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qCOAXYOAJNg6mRWYXx_G-11" value="AC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1390" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qCOAXYOAJNg6mRWYXx_G-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qCOAXYOAJNg6mRWYXx_G-18" target="qCOAXYOAJNg6mRWYXx_G-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="400" as="sourcePoint" />
-            <mxPoint x="710" y="250" as="targetPoint" />
+            <mxPoint x="1340" y="400" as="sourcePoint" />
+            <mxPoint x="1340" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qCOAXYOAJNg6mRWYXx_G-13" value="网络线路1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qCOAXYOAJNg6mRWYXx_G-12">
@@ -62,8 +62,8 @@
         </mxCell>
         <mxCell id="qCOAXYOAJNg6mRWYXx_G-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.4;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qCOAXYOAJNg6mRWYXx_G-19" target="qCOAXYOAJNg6mRWYXx_G-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="820" y="400" as="sourcePoint" />
-            <mxPoint x="840" y="210" as="targetPoint" />
+            <mxPoint x="1450" y="400" as="sourcePoint" />
+            <mxPoint x="1470" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qCOAXYOAJNg6mRWYXx_G-15" value="网络线路2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qCOAXYOAJNg6mRWYXx_G-14">
@@ -73,8 +73,8 @@
         </mxCell>
         <mxCell id="qCOAXYOAJNg6mRWYXx_G-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.433;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qCOAXYOAJNg6mRWYXx_G-20" target="qCOAXYOAJNg6mRWYXx_G-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960" y="400" as="sourcePoint" />
-            <mxPoint x="930" y="300" as="targetPoint" />
+            <mxPoint x="1590" y="400" as="sourcePoint" />
+            <mxPoint x="1560" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qCOAXYOAJNg6mRWYXx_G-17" value="网络线路3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qCOAXYOAJNg6mRWYXx_G-16">
@@ -83,13 +83,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qCOAXYOAJNg6mRWYXx_G-18" value="上网区域1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="1270" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qCOAXYOAJNg6mRWYXx_G-19" value="上网区域2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="774" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="1404" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qCOAXYOAJNg6mRWYXx_G-20" value="上网区域3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="1540" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qCOAXYOAJNg6mRWYXx_G-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qCOAXYOAJNg6mRWYXx_G-21" target="qCOAXYOAJNg6mRWYXx_G-24">
           <mxGeometry relative="1" as="geometry" />
@@ -108,6 +108,69 @@
         </mxCell>
         <mxCell id="qCOAXYOAJNg6mRWYXx_G-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.742;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qCOAXYOAJNg6mRWYXx_G-28" target="qCOAXYOAJNg6mRWYXx_G-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qCOAXYOAJNg6mRWYXx_G-32" value="交换机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="589" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qCOAXYOAJNg6mRWYXx_G-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qCOAXYOAJNg6mRWYXx_G-37" target="qCOAXYOAJNg6mRWYXx_G-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="659" y="400" as="sourcePoint" />
+            <mxPoint x="659" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qCOAXYOAJNg6mRWYXx_G-34" value="网络线路1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qCOAXYOAJNg6mRWYXx_G-33">
+          <mxGeometry x="-0.0042" y="1" relative="1" as="geometry">
+            <mxPoint x="-14" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qCOAXYOAJNg6mRWYXx_G-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.45;entryY=0.992;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="qCOAXYOAJNg6mRWYXx_G-38" target="qCOAXYOAJNg6mRWYXx_G-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="769" y="400" as="sourcePoint" />
+            <mxPoint x="789" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qCOAXYOAJNg6mRWYXx_G-36" value="网络线路2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qCOAXYOAJNg6mRWYXx_G-35">
+          <mxGeometry x="0.02" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qCOAXYOAJNg6mRWYXx_G-37" value="上网区域1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="589" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qCOAXYOAJNg6mRWYXx_G-38" value="上网区域2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="723" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qCOAXYOAJNg6mRWYXx_G-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qCOAXYOAJNg6mRWYXx_G-41" target="qCOAXYOAJNg6mRWYXx_G-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qCOAXYOAJNg6mRWYXx_G-40" value="网络线路3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qCOAXYOAJNg6mRWYXx_G-39">
+          <mxGeometry x="0.0667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qCOAXYOAJNg6mRWYXx_G-41" value="上网区域3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="873" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qCOAXYOAJNg6mRWYXx_G-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qCOAXYOAJNg6mRWYXx_G-43" target="qCOAXYOAJNg6mRWYXx_G-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qCOAXYOAJNg6mRWYXx_G-43" value="交换机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="729" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qCOAXYOAJNg6mRWYXx_G-44" value="互联网出口&lt;br&gt;政务网" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="729" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qCOAXYOAJNg6mRWYXx_G-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.167;entryY=0.944;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qCOAXYOAJNg6mRWYXx_G-32" target="qCOAXYOAJNg6mRWYXx_G-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qCOAXYOAJNg6mRWYXx_G-46" value="上网区域3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="873" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qCOAXYOAJNg6mRWYXx_G-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.742;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qCOAXYOAJNg6mRWYXx_G-46" target="qCOAXYOAJNg6mRWYXx_G-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qCOAXYOAJNg6mRWYXx_G-48" value="AC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
